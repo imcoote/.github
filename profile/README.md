@@ -14,4 +14,4 @@
 
 ### 문제 일정
 **241104**: [1926 그림](https://www.acmicpc.net/problem/1926), [2178 미로 탐색](https://www.acmicpc.net/problem/2178), [15683 감시](https://www.acmicpc.net/problem/15683)  
-  **241107**: [1697 숨바꼭](https://www.acmicpc.net/problem/1697), [2583 영역 구하기](https://www.acmicpc.net/problem/2583)
+  **241107**: [1697 숨바꼭질](https://www.acmicpc.net/problem/1697), [2583 영역 구하기](https://www.acmicpc.net/problem/2583)
