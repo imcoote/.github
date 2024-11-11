@@ -13,5 +13,6 @@
 - [바킹독(BaaaaaaaaaaarkingDog) 알고리즘](https://www.acmicpc.net/workbook/top)
 
 ### 문제 일정
-**241104**: [1926 그림](https://www.acmicpc.net/problem/1926), [2178 미로 탐색](https://www.acmicpc.net/problem/2178), [15683 감시](https://www.acmicpc.net/problem/15683)  
-  **241107**: [1697 숨바꼭질](https://www.acmicpc.net/problem/1697), [2583 영역 구하기](https://www.acmicpc.net/problem/2583)
+**241104**: [1926 그림](https://www.acmicpc.net/problem/1926), [2178 미로 탐색](https://www.acmicpc.net/problem/2178), [15683 감시](https://www.acmicpc.net/problem/15683)    
+**241107**: [1697 숨바꼭질](https://www.acmicpc.net/problem/1697), [2583 영역 구하기](https://www.acmicpc.net/problem/2583)    
+**241111**: [11047 동전 0](https://www.acmicpc.net/problem/11047), [1931 회의실 배정](https://www.acmicpc.net/problem/1931)   
