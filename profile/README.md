@@ -18,6 +18,6 @@
 **241111**: [11047 동전 0](https://www.acmicpc.net/problem/11047), [1931 회의실 배정](https://www.acmicpc.net/problem/1931)   
 **241114**: [2217 로브](https://www.acmicpc.net/problem/2217), [2170 선 긋기](https://www.acmicpc.net/problem/2170)   
 **241125**: [14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888), [14889 스타트와 링크](https://www.acmicpc.net/problem/14889)   
-**241128**: [1149 RGB거리](https://www.acmicpc.net/problem/1149), [2240 자두나무](https://www.acmicpc.net/problem/2240)  
+**241128**: [1149 RGB거리](https://www.acmicpc.net/problem/1149), [2240 자두나무](https://www.acmicpc.net/problem/2240)   
 
 
