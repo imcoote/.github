@@ -10,6 +10,9 @@
 - 다른 사람의 문제 풀이에 대한 피드백을 검사일 다음날(화, 금)까지 작성한다.
 - 스케줄로 인해 놓치는 문제가 발생했을 시, 다른 날을 이용해 스스로 메꾸어 놓아야 한다.
 
+![IMG_8203](https://github.com/user-attachments/assets/102c8d32-d6fb-4fc2-8bc0-b9d4e111ca27)  
+- 모두 다이아되는 그날까지 고고 🚀 
+
 ### 참고 문제집
 - [바킹독(BaaaaaaaaaaarkingDog) 알고리즘](https://www.acmicpc.net/workbook/top)
 
