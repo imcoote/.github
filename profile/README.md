@@ -28,6 +28,7 @@
 | **241128**| 민주 | [1149 RGB거리](https://www.acmicpc.net/problem/1149), [2240 자두나무](https://www.acmicpc.net/problem/2240) | -- |
 | **241202**| 규림 | [17140 이차원 배열과 연산](https://www.acmicpc.net/problem/17140), [11399 ATM](https://www.acmicpc.net/problem/11399) | -- |
 | **241217**| 민관 | [14501 퇴사](https://www.acmicpc.net/problem/14501), [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) | [2480 주사위 세개](https://www.acmicpc.net/problem/2480), [2525 오븐 시계](https://www.acmicpc.net/problem/2525) |  
+| **241219**| 민주 | [1946 신입사](https://www.acmicpc.net/problem/1946), [1012 유기농 배추](https://www.acmicpc.net/problem/1012) | -- |
 
 
 
