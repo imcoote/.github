@@ -29,7 +29,4 @@
 | **241202**| 규림 | [17140 이차원 배열과 연산](https://www.acmicpc.net/problem/17140), [11399 ATM](https://www.acmicpc.net/problem/11399) | -- |
 | **241217**| 민관 | [14501 퇴사](https://www.acmicpc.net/problem/14501), [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) | [2480 주사위 세개](https://www.acmicpc.net/problem/2480), [2525 오븐 시계](https://www.acmicpc.net/problem/2525) |  
 | **241219**| 민주 | [1946 신입사원](https://www.acmicpc.net/problem/1946), [1012 유기농 배추](https://www.acmicpc.net/problem/1012) | [25304 영수증](https://www.acmicpc.net/problem/25304), [11720 숫자의 합](https://www.acmicpc.net/problem/11720) |
-
-
-
-
+| **241223**| 규림 | [15649 N과 M(1)](https://www.acmicpc.net/problem/15649), [9095 1,2,3 더하기](https://www.acmicpc.net/status?from_mine=1&problem_id=9095&user_id=gyurim1250) | [2675 문자열 반복](https://www.acmicpc.net/problem/2675), [1789 수들의 합](https://www.acmicpc.net/problem/1789) |   
