@@ -30,3 +30,4 @@
 | **241217**| 민관 | [14501 퇴사](https://www.acmicpc.net/problem/14501), [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) | [2480 주사위 세개](https://www.acmicpc.net/problem/2480), [2525 오븐 시계](https://www.acmicpc.net/problem/2525) |  
 | **241219**| 민주 | [1946 신입사원](https://www.acmicpc.net/problem/1946), [1012 유기농 배추](https://www.acmicpc.net/problem/1012) | [25304 영수증](https://www.acmicpc.net/problem/25304), [11720 숫자의 합](https://www.acmicpc.net/problem/11720) |
 | **241223**| 규림 | [15649 N과 M(1)](https://www.acmicpc.net/problem/15649), [9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | [2675 문자열 반복](https://www.acmicpc.net/problem/2675), [1789 수들의 합](https://www.acmicpc.net/problem/1789) |   
+| **241226**| 민관 | [11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725), [2075 N번째 큰 수](https://www.acmicpc.net/problem/2075) | [1977 완전제곱](https://www.acmicpc.net/problem/1977), [1157 단어 공부](https://www.acmicpc.net/problem/1157) |
