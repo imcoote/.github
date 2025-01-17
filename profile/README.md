@@ -33,3 +33,5 @@
 | **241226**| 민관 | [11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725), [2075 N번째 큰 수](https://www.acmicpc.net/problem/2075) | [1977 완전제곱](https://www.acmicpc.net/problem/1977), [1157 단어 공부](https://www.acmicpc.net/problem/1157) |
 | **241230**| 민주 | [11501 주식](https://www.acmicpc.net/problem/11501), [2847 게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [2566 최댓값](https://www.acmicpc.net/problem/2566), [5622 다이얼](https://www.acmicpc.net/problem/5622) |
 | **250114**| 규림 | 브론즈팀 다 푸셔서 냈어용 풀 사람 풀어주세요! | [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309), [10828 스택](https://www.acmicpc.net/problem/10828) |
+| **250117**| 규림 | [1920 수 찾기](https://www.acmicpc.net/problem/1920), [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [4796 캠핑](https://www.acmicpc.net/problem/4796), [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |  
+
