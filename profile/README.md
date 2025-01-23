@@ -35,5 +35,5 @@
 | **250114**| 규림 | 브론즈팀 다 푸셔서 냈어용 풀 사람 풀어주세요! | [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309), [10828 스택](https://www.acmicpc.net/problem/10828) |
 | **250117**| 규림 | [1920 수 찾기](https://www.acmicpc.net/problem/1920), [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [4796 캠핑](https://www.acmicpc.net/problem/4796), [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |  
 | **250120**| 민관 | [9657 돌 게임3](https://www.acmicpc.net/problem/9657), [1874 스택 수열](https://www.acmicpc.net/problem/1874) | [1110 더하기 사이클](https://www.acmicpc.net/problem/1110), [3035 스캐너](https://www.acmicpc.net/problem/3035) |  
-| **250123**| 민주 | [1026 보물](https://www.acmicpc.net/problem/1026), [13335 트럭](https://www.acmicpc.net/problem/13335) | [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869), [2816 디지털 티비](https://www.acmicpc.net/problem/2816) |
+| **250124**| 민주 | [1026 보물](https://www.acmicpc.net/problem/1026), [13335 트럭](https://www.acmicpc.net/problem/13335) | [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869), [2816 디지털 티비](https://www.acmicpc.net/problem/2816) |
 
