@@ -36,4 +36,5 @@
 | **250117**| 규림 | [1920 수 찾기](https://www.acmicpc.net/problem/1920), [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [4796 캠핑](https://www.acmicpc.net/problem/4796), [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |  
 | **250120**| 민관 | [9657 돌 게임3](https://www.acmicpc.net/problem/9657), [1874 스택 수열](https://www.acmicpc.net/problem/1874) | [1110 더하기 사이클](https://www.acmicpc.net/problem/1110), [3035 스캐너](https://www.acmicpc.net/problem/3035) |  
 | **250124**| 민주 | [1026 보물](https://www.acmicpc.net/problem/1026), [13335 트럭](https://www.acmicpc.net/problem/13335) | [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869), [2816 디지털 티비](https://www.acmicpc.net/problem/2816) |
+| **설연휴 보너스**| 민관 | [17825_주사위윷놀이](https://www.acmicpc.net/problem/17825) | 설연휴 기념으로 윷놀이 풀어봅시다! 파이팅! |  
 
