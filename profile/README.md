@@ -37,4 +37,5 @@
 | **250120**| 민관 | [9657 돌 게임3](https://www.acmicpc.net/problem/9657), [1874 스택 수열](https://www.acmicpc.net/problem/1874) | [1110 더하기 사이클](https://www.acmicpc.net/problem/1110), [3035 스캐너](https://www.acmicpc.net/problem/3035) |  
 | **250124**| 민주 | [1026 보물](https://www.acmicpc.net/problem/1026), [13335 트럭](https://www.acmicpc.net/problem/13335) | [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869), [2816 디지털 티비](https://www.acmicpc.net/problem/2816) |
 | **설연휴 보너스**| 민관 | [17825_주사위윷놀이](https://www.acmicpc.net/problem/17825) | 설연휴 기념으로 윷놀이 풀어봅시다! 파이팅! |  
+| **250127** | 규림 | [20056 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056), [20057 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)| 삼성 2문제! 연휴동안 풀어보아용 |  
 
