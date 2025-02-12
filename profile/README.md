@@ -39,4 +39,6 @@
 | **설연휴 보너스**| 민관 | [17825_주사위윷놀이](https://www.acmicpc.net/problem/17825) | 설연휴 기념으로 윷놀이 풀어봅시다! 파이팅! |  
 | **250127** | 규림 | [20056 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056), [20057 마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)| 삼성 2문제! 연휴동안 풀어보아용 |  
 | **250204**| 민관 | [19583 싸이버개강총회](https://www.acmicpc.net/problem/19583), [18258 큐2](https://www.acmicpc.net/problem/18258) | [2292 벌집](https://www.acmicpc.net/problem/2292), [1919 애너그램만들기](https://www.acmicpc.net/problem/1919) |
-| **250207**| 민주 | [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667), [2606 바이러스](https://www.acmicpc.net/problem/2606) | [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609), [2846 오르막길](https://www.acmicpc.net/problem/2846) |
+| **250207**| 민주 | [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667), [2606 바이러스](https://www.acmicpc.net/problem/2606) | [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609), [2846 오르막길](https://www.acmicpc.net/problem/2846) |  
+| **250212**| 규림 | [2293 동전 1](https://www.acmicpc.net/problem/2293), [1459 걷기](https://www.acmicpc.net/problem/1459) |    
+
