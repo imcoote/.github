@@ -20,7 +20,7 @@
 ### 문제 일정
 | 날짜      | 출제자 | 자바                                                                                 | SQL                                                                                  |
 |-----------|--------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| **250406**| 민주 | [1926 그림](https://www.acmicpc.net/problem/1926), [2178 미로 탐색](https://www.acmicpc.net/problem/2178), [15683 감시](https://www.acmicpc.net/problem/15683) | -- |
+| **250406**| 민주 | [10773 제로](https://www.acmicpc.net/problem/10773), [1439 뒤집기](https://www.acmicpc.net/problem/1439), [1012 유기농 배추](https://www.acmicpc.net/problem/1012), [1927 최소 힙](https://www.acmicpc.net/problem/1927), [11279 최대 힙](https://www.acmicpc.net/problem/11279) | [157339 JOIN](https://school.programmers.co.kr/learn/courses/30/lessons/157339), [131117 JOIN](https://school.programmers.co.kr/learn/courses/30/lessons/131117), [133027 JOIN](https://school.programmers.co.kr/learn/courses/30/lessons/133027) |
 
 <details>
   <summary>이전 문제 일정 보기</summary>
