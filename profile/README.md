@@ -18,7 +18,7 @@
 - [바킹독(BaaaaaaaaaaarkingDog) 알고리즘](https://www.acmicpc.net/workbook/top)
 
 ### 문제 일정
-| 날짜      | 출제자 | 자바                                                                                 | SQL                                                                                  |
+| 날짜      | 출제자 | JAVA                                                                                 | SQL                                                                                  |
 |-----------|--------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | **250406**| 민주 | [10773 제로](https://www.acmicpc.net/problem/10773), [1439 뒤집기](https://www.acmicpc.net/problem/1439), [1012 유기농 배추](https://www.acmicpc.net/problem/1012), [1927 최소 힙](https://www.acmicpc.net/problem/1927), [11279 최대 힙](https://www.acmicpc.net/problem/11279) | [157339 JOIN](https://school.programmers.co.kr/learn/courses/30/lessons/157339), [131117 JOIN](https://school.programmers.co.kr/learn/courses/30/lessons/131117), [133027 JOIN](https://school.programmers.co.kr/learn/courses/30/lessons/133027) |
 
