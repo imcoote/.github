@@ -24,6 +24,7 @@
 
 <details>
   <summary>이전 문제 일정 보기</summary>
+
 | 날짜      | 출제자 | 실버                                                                                 | 브론즈                                                                                  |
 |-----------|--------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | **241104**| 규림 | [1926 그림](https://www.acmicpc.net/problem/1926), [2178 미로 탐색](https://www.acmicpc.net/problem/2178), [15683 감시](https://www.acmicpc.net/problem/15683) | -- |
@@ -48,7 +49,7 @@
 | **250207**| 민주 | [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667), [2606 바이러스](https://www.acmicpc.net/problem/2606) | [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609), [2846 오르막길](https://www.acmicpc.net/problem/2846) |  
 | **250212**| 규림 | [2293 동전 1](https://www.acmicpc.net/problem/2293), [1459 걷기](https://www.acmicpc.net/problem/1459) | [1459 걷기](https://www.acmicpc.net/problem/1459), [6359 만취한 상범](https://www.acmicpc.net/problem/6359) |   
 | **250213**| 민관 | [1780 종이의개수](https://www.acmicpc.net/problem/1780), [1431 시리얼번호](https://www.acmicpc.net/problem/1431) | [8958 OX퀴즈](https://www.acmicpc.net/problem/8958), [4344 평균은넘겠지](https://www.acmicpc.net/problem/4344) |
-| **250218**| 민주 | [1439 뒤집기](https://www.acmicpc.net/problem/1439), [15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085), [1009 분산처리](https://www.acmicpc.net/problem/1009) |  
+| **250218**| 민주 | [1439 뒤집기](https://www.acmicpc.net/problem/1439), [15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085), [1009 분산처리](https://www.acmicpc.net/problem/1009) |
 </details>
 
 
